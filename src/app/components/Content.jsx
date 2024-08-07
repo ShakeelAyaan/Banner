@@ -1,6 +1,6 @@
 // src/app/page.js
 import Link from 'next/link';
-import data from '../data/data.json';
+import data from '../Data/Data.json';
 
 export default function Content() {
 
