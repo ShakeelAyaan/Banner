@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "title": "Boost Your Sales with Our Marketing Solutions",
+    "description": "Discover the best marketing strategies to increase your sales and grow your business.",
+    "cta": "Learn More",
+    "image": "https://images.pexels.com/photos/4218701/pexels-photo-4218701.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "backgroundGradient": "linear-gradient(68.6deg, rgb(252, 165, 241) 1.8%, rgb(181, 255, 255) 100.5%)"
+  },
+  {
+    "id": 2,
+    "title": "Get the Best Payment Gateway",
+    "description": "Secure, reliable, and easy-to-integrate payment solutions for your online store.",
+    "cta": "Get Started",
+    "image": "https://images.pexels.com/photos/4107279/pexels-photo-4107279.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "backgroundGradient": "linear-gradient(68.6deg, rgb(241, 252, 165) 1.8%, rgb(255, 181, 181) 100.5%)"
+  },
+  {
+    "id": 3,
+    "title": "Join Our Developer Community",
+    "description": "Connect with developers around the world, share knowledge, and grow together.",
+    "cta": "Join Now",
+    "image": "https://images.pexels.com/photos/10752141/pexels-photo-10752141.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "backgroundGradient": "linear-gradient(68.6deg, rgb(165, 241, 252) 1.8%, rgb(255, 255, 181) 100.5%)"
+  },
+  {
+    "id": 4,
+    "title": "Upgrade to Our Premium Services",
+    "description": "Unlock exclusive features and benefits with our premium plans.",
+    "cta": "Upgrade Now",
+    "image": "https://images.pexels.com/photos/2088203/pexels-photo-2088203.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "backgroundGradient": "linear-gradient(68.6deg, rgb(181, 252, 165) 1.8%, rgb(241, 181, 255) 100.5%)"
+  },
+  {
+    "id": 5,
+    "title": "Support Our Mission",
+    "description": "Help us make a difference by supporting our non-profit initiatives.",
+    "cta": "Donate Now",
+    "image": "https://images.pexels.com/photos/929606/pexels-photo-929606.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "backgroundGradient": "linear-gradient(68.6deg, rgb(165, 252, 241) 1.8%, rgb(255, 181, 241) 100.5%)"
+  },
+  {
+    "id": 6,
+    "title": "Discover New Opportunities with Us",
+    "description": "Explore the latest trends and opportunities in the industry.",
+    "cta": "Explore More",
+    "image": "https://images.pexels.com/photos/4253269/pexels-photo-4253269.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "backgroundGradient": "linear-gradient(68.6deg, rgb(252, 241, 165) 1.8%, rgb(255, 241, 181) 100.5%)"
+  },
+  {
+    "id": 7,
+    "title": "Connect and Collaborate with Us",
+    "description": "Join our network and collaborate on exciting projects.",
+    "cta": "Connect Now",
+    "image": "https://images.pexels.com/photos/7412030/pexels-photo-7412030.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "backgroundGradient": "linear-gradient(68.6deg, rgb(181, 165, 252) 1.8%, rgb(241, 181, 255) 100.5%)"
+  },
+  {
+    "id": 8,
+    "title": "Elevate Your Business with Our Solutions",
+    "description": "Take your business to the next level with our expert solutions.",
+    "cta": "Elevate Now",
+    "image": "https://images.pexels.com/photos/4394240/pexels-photo-4394240.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "backgroundGradient": "linear-gradient(68.6deg, rgb(241, 181, 252) 1.8%, rgb(252, 181, 255) 100.5%)"
+  },
+  {
+    "id": 9,
+    "title": "Innovate with Cutting-Edge Technology",
+    "description": "Stay ahead with our latest technology and innovations.",
+    "cta": "Learn More",
+    "image": "https://images.pexels.com/photos/10933642/pexels-photo-10933642.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "backgroundGradient": "linear-gradient(68.6deg, rgb(165, 252, 181) 1.8%, rgb(255, 181, 252) 100.5%)"
+  },
+  {
+    "id": 10,
+    "title": "Transform Your Ideas into Reality",
+    "description": "Turn your vision into a successful project with our expert guidance.",
+    "cta": "Get Started",
+    "image": "https://images.pexels.com/photos/4394240/pexels-photo-4394240.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "backgroundGradient": "linear-gradient(68.6deg, rgb(181, 241, 252) 1.8%, rgb(252, 181, 255) 100.5%)"
+  },
+  {
+    "id": 11,
+    "title": "Enhance Your Online Presence",
+    "description": "Boost your online visibility and engagement with our strategies.",
+    "cta": "Explore Now",
+    "image": "https://images.pexels.com/photos/4253269/pexels-photo-4253269.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "backgroundGradient": "linear-gradient(68.6deg, rgb(252, 165, 252) 1.8%, rgb(181, 255, 181) 100.5%)"
+  },
+  {
+    "id": 12,
+    "title": "Achieve Your Goals with Us",
+    "description": "Partner with us to reach your business goals and beyond.",
+    "cta": "Start Today",
+    "image": "https://images.pexels.com/photos/2114014/pexels-photo-2114014.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "backgroundGradient": "linear-gradient(68.6deg, rgb(241, 165, 252) 1.8%, rgb(255, 181, 241) 100.5%)"
+  },
+  {
+    "id": 13,
+    "title": "Create Impactful Campaigns",
+    "description": "Design campaigns that captivate and convert your audience.",
+    "cta": "Create Now",
+    "image": "https://images.pexels.com/photos/10752141/pexels-photo-10752141.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "backgroundGradient": "linear-gradient(68.6deg, rgb(165, 241, 181) 1.8%, rgb(252, 181, 255) 100.5%)"
+  },
+  {
+    "id": 14,
+    "title": "Engage Your Audience with Stunning Visuals",
+    "description": "Capture your audience’s attention with our high-quality visuals.",
+    "cta": "See More",
+    "image": "https://images.pexels.com/photos/4252669/pexels-photo-4252669.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "backgroundGradient": "linear-gradient(68.6deg, rgb(252, 165, 181) 1.8%, rgb(181, 241, 255) 100.5%)"
+  }
+]
